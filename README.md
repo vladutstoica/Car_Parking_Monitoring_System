@@ -1,6 +1,8 @@
 # Car_Parking_Monitoring_System
 The idea behind this project proposes the development of a parking command and control system, in order to facilitate the management of parking spaces and reduce the number of illegally parked vehicles. The project is divided into three systems: the management system, the parking place system and the barrier system. These systems are interconnected and transmit information in real time to act as soon as possible when a vehicle enters the parking lot.
 
+![Illustration](https://user-images.githubusercontent.com/23508982/127334027-4eaaeb42-460e-4bc8-9b8d-3034e31e2fa8.png)
+
 ## Documentation
 
   Components used:
